@@ -1,0 +1,7 @@
+{
+  "name": "CodeQuest - Gamified Coding Platform",
+  "description": "Interactive gamified platform for beginners to master programming languages through bite-sized lessons, interactive challenges, streaks, levels, and real-time code feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
